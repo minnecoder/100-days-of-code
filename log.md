@@ -18,4 +18,4 @@ night I had this issue fixed, I think....
 method that I used at first. I am going to try to make them into an array with object. I am about halfway done with doing this. The next 
 step is getting into the "picker" and vaildation portion of the program.
 
-**Link to work:** 
+**Link to work:** https://github.com/seanparkin/secretsanta
